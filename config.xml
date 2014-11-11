@@ -21,4 +21,6 @@
     <feature name="StatusBar">
       <param name="ios-package" value="CDVStatusBar" onload="true" />
     </feature>
+	
+    <gap:plugin name="org.apache.cordova.contacts" />
 </widget>
